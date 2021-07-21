@@ -18,6 +18,11 @@ class Result {
      * The function accepts INTEGER n as parameter.
      */
 
+//      #
+//     ##
+//    ###
+//   ####
+
     public static void staircase(int n) {
     // Write your code here
         for (int i = 0; i < n; i++) {
